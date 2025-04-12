@@ -1,0 +1,1 @@
+find /bin -type f -executable -exec ls -lh {} + 

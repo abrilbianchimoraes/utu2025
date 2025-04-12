@@ -1,0 +1,1 @@
+find / -size 5M -mtime 7
